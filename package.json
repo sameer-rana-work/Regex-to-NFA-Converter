@@ -1,0 +1,25 @@
+{
+  "name": "regex-to-nfa-converter",
+  "version": "1.0.0",
+  "description": "A React-based web application that converts regular expressions to Non-deterministic Finite Automata (NFA) using Thompson's construction algorithm.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameer-rana-work/Regex-to-NFA-Converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameer-rana-work/Regex-to-NFA-Converter/issues"
+  },
+  "homepage": "https://github.com/sameer-rana-work/Regex-to-NFA-Converter#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "viz.js": "^2.1.2"
+  }
+}
